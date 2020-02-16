@@ -1,0 +1,23 @@
+body {
+    width: 800px;
+    margin: auto;
+    background-color: rgba(170, 241, 241, 0.842);
+    background-image: url(./star-pink-png-7.png);
+    background-size: 50px;
+}
+main {
+    padding: 20px;
+    background-color: white;
+}
+h1 {
+    text-align: center;
+}
+#my-photo {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+footer {
+    text-align: center;
+}
